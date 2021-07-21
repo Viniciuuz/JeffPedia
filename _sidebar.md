@@ -1,5 +1,7 @@
 * [Home](/)
-* [2021](2021.md)
+* [Logs](#)
+    * [2021](logs/2021.md)
+* [Acontecimentos](acontecimentos.md)
 
 ---
 
