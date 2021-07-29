@@ -5,3 +5,6 @@
 
 ## 27 de Julho, 2021
 <span style="font-size: 2em">Redução do preço de Sub na Twitch</span>
+
+## 28 de Julho, 2021
+<span style="font-size: 2em">Jogou Dropshot no Rocket League</span>
