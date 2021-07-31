@@ -1,6 +1,6 @@
 # JefffPedia
 
-Selecione um ano na sidebar
+Selecione um ano na aba 'Logs' na sidebar
 
 ---
 
