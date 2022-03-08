@@ -33,3 +33,9 @@
 <span style="font-size: 2em">Crab Game com os subs</span>
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/Mz7qQq-oUZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## 08 de Janeiro, 2022
+<span style="font-size: 2em">Intruder com subs</span>
+
+<iframe width="100%" height="480" src="https://www.youtube.com/watch?v=ZCbKm3xhTlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
